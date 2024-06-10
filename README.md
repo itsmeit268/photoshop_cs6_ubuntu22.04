@@ -1,0 +1,1 @@
+# photoshop_cs6_ubuntu22.04
